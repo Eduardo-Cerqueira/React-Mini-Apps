@@ -1,0 +1,1 @@
+# React app having multiple mini apps examples
